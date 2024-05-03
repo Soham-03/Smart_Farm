@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Smart Farm</string>
+    <string name="title_activity_crop_recommend">CropRecommend</string>
+    <string name="title_activity_selected_field">SelectedField</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="title_activity_add_crop">AddCrop</string>
+    <string name="title_activity_select_field_on_map">SelectFieldOnMap</string>
+</resources>
